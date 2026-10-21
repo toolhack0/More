@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Elhnafy V</string>
+    <string name="vpn_service_desc">Elhnafy V Secure Tunnel &amp; VPN Service</string>
+    <string name="connected">CONNECTED</string>
+    <string name="disconnected">DISCONNECTED</string>
+    <string name="connecting">CONNECTING…</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+</resources>
